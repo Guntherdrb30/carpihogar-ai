@@ -1,4 +1,18 @@
 # carpihogar-ai
+![Carpihogar PWA](Screenshot_20260529_194018_com.jpg)
+
+## AI-Native Omnichannel ERP
+
+- En producción
+- 21 marcas integradas
+- Más de 320 productos
+- Más de USD 30.000 en ventas gestionadas
+- Arquitectura escalable en Vercel
+- PostgreSQL + Prisma ORM + Neon Database
+- Cloudflare Security
+- Vercel Bot Protection
+- Diseñado para expansión multipaís
+  
 ERP omnicanal AI-native construido en Venezuela que transforma la inteligencia artificial en una capa operativa real para comercio, inventario, marketing y gestión empresarial.
 
 Carpihogar AI
