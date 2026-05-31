@@ -8,8 +8,6 @@ Este repositorio corresponde a una plataforma funcional orientada a produccion, 
 
 ---
 
-## Resumen para concurso
-
 Carpihogar.com es un ecosistema de comercio inteligente que digitaliza el ciclo completo de venta de muebles y productos para el hogar: descubrimiento, asesoramiento, cotizacion, checkout, pago, inventario, despacho, postventa, reportes y marketing. La plataforma une una experiencia de tienda moderna con un ERP interno y agentes de IA capaces de apoyar ventas, reportes, marketing, catalogos, manuales y atencion al cliente.
 
 El proyecto fue construido con Next.js, React, TypeScript, Prisma, PostgreSQL, Vercel, OpenAI, Meta Graph API y WhatsApp Cloud API. Incluye modulos de e-commerce, POS, inventario, compras, contabilidad, delivery, aliados, inversionistas, PWA, notificaciones, configuradores visuales, moodboards, diseno de cocinas, personalizacion 3D y dashboards por rol.
